@@ -6,5 +6,6 @@
 <h4>Javascript-Html-Css / Javascript-Html-Css kullanıldı</h4>
 
 <h2>Screenshot / Ekran Görüntüsü:</h2>
-https://github.com/RamazanKun/XCard/assets/129733537/108d0545-9103-4e66-b5fc-bfda180861b1
+
+https://github.com/RamazanKun/XCard/assets/129733537/3bcde621-0400-48e2-8b2f-a6b5ff002839
 
